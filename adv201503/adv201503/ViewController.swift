@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         
         println("lan8177")
         println("BY TED")
+        
+        println("By zu1sjki")
+        
         let a = "BY ConrTG"
         let b = "lan8177"
         var c = "a+b"
