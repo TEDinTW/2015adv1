@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         println("BY ConrTG")
         
         println("lan8177")
+        let a = "BY ConrTG"
+        let b = "lan8177"
+        var c = "a+b"
     }
 
     override func didReceiveMemoryWarning() {
