@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         println("BY ConrTG")
         
         println("lan8177")
-        println("hehehe")
+
     }
 
     override func didReceiveMemoryWarning() {
