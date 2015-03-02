@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TEDVC.swift
 //  adv201503
 //
 //  Created by ios on 2015/3/2.
@@ -8,8 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class TEDVC: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -23,13 +23,12 @@ class ViewController: UIViewController {
         
         println("BY TED")
     }
-
-
+    
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
-
