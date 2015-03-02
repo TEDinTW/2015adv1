@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		81132CE41AA4950900459D8E /* Attente8098.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81132CE31AA4950900459D8E /* Attente8098.swift */; };
 		812DFC5F1AA48C1200514DD8 /* TONYVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DFC5E1AA48C1200514DD8 /* TONYVC.swift */; };
 		814497001AA47A4B00B397BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814496FF1AA47A4B00B397BC /* AppDelegate.swift */; };
 		814497021AA47A4B00B397BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814497011AA47A4B00B397BC /* ViewController.swift */; };
@@ -14,7 +15,7 @@
 		814497071AA47A4B00B397BC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 814497061AA47A4B00B397BC /* Images.xcassets */; };
 		8144970A1AA47A4B00B397BC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 814497081AA47A4B00B397BC /* LaunchScreen.xib */; };
 		814497161AA47A4B00B397BC /* adv201503Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814497151AA47A4B00B397BC /* adv201503Tests.swift */; };
-815B60321AA48BEA00ADD02B /* yehchefu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815B60311AA48BEA00ADD02B /* yehchefu.swift */; };
+		815B60321AA48BEA00ADD02B /* yehchefu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815B60311AA48BEA00ADD02B /* yehchefu.swift */; };
 		81CE36D21AA48E2E00B13612 /* chi71524.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81CE36D11AA48E2E00B13612 /* chi71524.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		81132CE31AA4950900459D8E /* Attente8098.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Attente8098.swift; sourceTree = "<group>"; };
 		812DFC5E1AA48C1200514DD8 /* TONYVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TONYVC.swift; sourceTree = "<group>"; };
 		814496FA1AA47A4B00B397BC /* adv201503.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adv201503.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		814496FE1AA47A4B00B397BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -40,8 +42,7 @@
 		8144970F1AA47A4B00B397BC /* adv201503Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = adv201503Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		814497141AA47A4B00B397BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		814497151AA47A4B00B397BC /* adv201503Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adv201503Tests.swift; sourceTree = "<group>"; };
-815B60311AA48BEA00ADD02B /* yehchefu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yehchefu.swift; sourceTree = "<group>"; };
-815B60311AA48BEA00ADD02B /* yehchefu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yehchefu.swift; sourceTree = "<group>"; };
+		815B60311AA48BEA00ADD02B /* yehchefu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yehchefu.swift; sourceTree = "<group>"; };
 		81CE36D11AA48E2E00B13612 /* chi71524.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chi71524.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,7 +94,7 @@
 				814497081AA47A4B00B397BC /* LaunchScreen.xib */,
 				814496FD1AA47A4B00B397BC /* Supporting Files */,
 				81CE36D11AA48E2E00B13612 /* chi71524.swift */,
-E6B965EB1AA48BE80088F98D /* LANVC.swift */,81CE36D11AA48E2E00B13612 /* chi71524.swift */,
+				81132CE31AA4950900459D8E /* Attente8098.swift */,
 			);
 			path = adv201503;
 			sourceTree = "<group>";
@@ -232,11 +233,10 @@ E6B965EB1AA48BE80088F98D /* LANVC.swift */,81CE36D11AA48E2E00B13612 /* chi71524.
 			files = (
 				815B60321AA48BEA00ADD02B /* yehchefu.swift in Sources */,
 				814497021AA47A4B00B397BC /* ViewController.swift in Sources */,
-81DA542E1AA48B7F00636171 /* TEDVC.swift in Sources */,
-812DFC5F1AA48C1200514DD8 /* TONYVC.swift in Sources */,
+				81132CE41AA4950900459D8E /* Attente8098.swift in Sources */,
+				812DFC5F1AA48C1200514DD8 /* TONYVC.swift in Sources */,
 				81CE36D21AA48E2E00B13612 /* chi71524.swift in Sources */,
 				814497001AA47A4B00B397BC /* AppDelegate.swift in Sources */,
-				E6B965EC1AA48BE80088F98D /* LANVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
