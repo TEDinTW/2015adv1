@@ -12,6 +12,7 @@ class yehchefu: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        println("apple")
         let a = "BY ConrTG"
         let b = "lan8177"
         var c = "a+b"
