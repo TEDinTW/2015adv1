@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TONYVC.swift
 //  adv201503
 //
 //  Created by ios on 2015/3/2.
@@ -8,8 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class TONYVC: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,17 +20,16 @@ class ViewController: UIViewController {
         println("BY ConrTG")
         
         println("lan8177")
-        let a = "BY ConrTG"
-        let b = "lan8177"
-        var c = "a+b"
+        
+        println("BY TED")
+        println("tony")
     }
-
-
+    
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
-

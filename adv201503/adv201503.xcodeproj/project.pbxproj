@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		812DFC5F1AA48C1200514DD8 /* TONYVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DFC5E1AA48C1200514DD8 /* TONYVC.swift */; };
 		814497001AA47A4B00B397BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814496FF1AA47A4B00B397BC /* AppDelegate.swift */; };
 		814497021AA47A4B00B397BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814497011AA47A4B00B397BC /* ViewController.swift */; };
 		814497051AA47A4B00B397BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 814497031AA47A4B00B397BC /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		812DFC5E1AA48C1200514DD8 /* TONYVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TONYVC.swift; sourceTree = "<group>"; };
 		814496FA1AA47A4B00B397BC /* adv201503.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adv201503.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		814496FE1AA47A4B00B397BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		814496FF1AA47A4B00B397BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		814496FC1AA47A4B00B397BC /* adv201503 */ = {
 			isa = PBXGroup;
 			children = (
+				81DA542F1AA48C1000636171 /* TED */,
 				814496FF1AA47A4B00B397BC /* AppDelegate.swift */,
 				814497011AA47A4B00B397BC /* ViewController.swift */,
 				815B60311AA48BEA00ADD02B /* yehchefu.swift */,
@@ -86,6 +89,7 @@
 				814497061AA47A4B00B397BC /* Images.xcassets */,
 				814497081AA47A4B00B397BC /* LaunchScreen.xib */,
 				814496FD1AA47A4B00B397BC /* Supporting Files */,
+				E6B965EB1AA48BE80088F98D /* LANVC.swift */,
 			);
 			path = adv201503;
 			sourceTree = "<group>";
@@ -113,6 +117,14 @@
 				814497141AA47A4B00B397BC /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		81DA542F1AA48C1000636171 /* TED */ = {
+			isa = PBXGroup;
+			children = (
+				81DA542D1AA48B7F00636171 /* TEDVC.swift */,
+			);
+			name = TED;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -217,7 +229,10 @@
 			files = (
 				815B60321AA48BEA00ADD02B /* yehchefu.swift in Sources */,
 				814497021AA47A4B00B397BC /* ViewController.swift in Sources */,
+				81DA542E1AA48B7F00636171 /* TEDVC.swift in Sources */,
+				812DFC5F1AA48C1200514DD8 /* TONYVC.swift in Sources */,
 				814497001AA47A4B00B397BC /* AppDelegate.swift in Sources */,
+				E6B965EC1AA48BE80088F98D /* LANVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
