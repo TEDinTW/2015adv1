@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         println("BY ConrTG")
         
         println("lan8177")
+        println("BY TED")
+        let a = "BY ConrTG"
+        let b = "lan8177"
+        var c = "a+b"
         println("chi71524")
     }
 
