@@ -122,7 +122,6 @@
 		81DA542F1AA48C1000636171 /* TED */ = {
 			isa = PBXGroup;
 			children = (
-				81DA542D1AA48B7F00636171 /* TEDVC.swift */,
 			);
 			name = TED;
 			sourceTree = "<group>";
