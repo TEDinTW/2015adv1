@@ -22,6 +22,7 @@ class TEDVC: UIViewController {
         println("lan8177")
         
         println("BY TED")
+        
     }
     
     
